@@ -1,0 +1,44 @@
+#index{
+    background-color: #2980B9;
+   
+    
+}
+.form-group{
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 100px;
+    font-size: 50px;
+
+}
+input#usr{
+    height: 60px;
+    font-size: 50px;
+}
+input#pwd{
+    height: 60px;
+    font-size: 50px;
+}
+.img-circle{
+margin-left: 25%;
+margin-top: 10%;
+width: 530px;
+height: 530px;
+}
+
+.Iniciar{
+background-color: aqua;
+width: 100%;
+font-size: 50px;
+
+}
+.Registrate{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.footer{
+    text-align: center;
+    margin-top: 10%;
+    
+}

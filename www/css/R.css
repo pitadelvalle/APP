@@ -1,0 +1,16 @@
+.conteiner{
+    
+    margin-top: 40%;
+    font-size: 40px;
+    background-color:  #2980b9;
+    margin-left: 15%;
+    color: white;
+}
+.header{
+
+    text-align: center;
+    font-size: 70px;
+}
+.footer{
+    color: black;
+}

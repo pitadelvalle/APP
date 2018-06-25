@@ -1,0 +1,53 @@
+.container{
+    background-color: whitesmoke;
+}
+.button{
+    background-color: rgb(107, 218, 238);
+    margin-right: 5%;
+    color: white;
+}
+.header{
+    background-color:rgb(107, 218, 238);
+    height: 125px;
+    color:white;
+}
+.navbar-brand{
+    margin-left: 35%;
+    color: white;
+    font-size: 22px;
+    margin-top: 5%;
+}
+
+.img{
+    margin-left: 28%;
+    margin-top: 10%;
+    height: 130px;
+    width: 140px;
+}
+.alert{
+  text-align: center;
+    font-size: 16px;
+}
+
+.footer {
+   width: 100%;
+   background-color:whitesmoke;
+   color: black;
+  
+   
+}
+#f{
+    margin-left: 20%;
+    width: 150px;
+    font-size: 13px;
+    display: inline-flex;
+}
+#flecha{
+width: 40px;
+display: inline-flex;
+
+}
+.b2{
+width: 40px;
+display: inline-flex;
+}
